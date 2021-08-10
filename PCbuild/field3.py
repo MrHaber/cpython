@@ -31,5 +31,5 @@ print(" *")
 field3 = micro * 1000 + levelnum * 10 + serial
 
 print(" * and %d*1000 + %d*10 + %d = %d" % (micro, levelnum, serial, field3))
-print(" */")
+print(" **/")
 print("#define FIELD3", field3)
